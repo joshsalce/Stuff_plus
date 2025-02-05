@@ -1,0 +1,10 @@
+https://towardsdatascience.com/xrv-the-final-update-cb7b09192ace
+
+
+https://library.fangraphs.com/pitching/pitchingbot-pitch-modeling-primer/
+
+
+https://library.fangraphs.com/pitching/stuff-location-and-pitching-primer/
+
+
+https://github.com/ethanmoore21/PitchQuality/blob/master/xRV3_2021.R
